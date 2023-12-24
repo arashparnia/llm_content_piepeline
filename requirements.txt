@@ -1,0 +1,4 @@
+pandas
+llama-cpp-python
+tqdm
+luigi
