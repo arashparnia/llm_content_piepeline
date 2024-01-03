@@ -84,8 +84,8 @@ inputs = {
 }
 
 # Example usage (replace with your actual API key and Assistant ID)
-api_key = "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"  # Replace with your API key
-assistant_id = "asst_T7HClKQYmKUNOJmxlKW79XWQ"  # Replace with your Assistant ID
+api_key =  # Replace with your API key
+assistant_id =  # Replace with your Assistant ID
 response = generate_educational_story(api_key, assistant_id, inputs)
 
 for part in response:
